@@ -1,1 +1,4 @@
 baseConfig: google/allstar-config
+ignoreFiles:
+- pe-file.exe
+- pe-file.exe.debug
